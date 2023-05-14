@@ -1,0 +1,6 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+***************************************************
+ Congratulation! All data are correct! 
+***************************************************
+$stop called at time : 175 ns : File "C:/Users/T480/Desktop/Lab1/testbench.v" Line 114

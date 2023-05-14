@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Lab1.srcs/sources_1/new/add_32.v" \
+"../../../../Lab1.srcs/sources_1/new/alu_4.v" \
+"../../../../alu_top.v" \
+"../../../../Lab1.srcs/sources_1/new/and_32.v" \
+"../../../../Lab1.srcs/sources_1/new/nor_32.v" \
+"../../../../Lab1.srcs/sources_1/new/or_32.v" \
+"../../../../Lab1.srcs/sources_1/new/slt_32.v" \
+"../../../../Lab1.srcs/sources_1/new/sub_32.v" \
+"../../../../alu.v" \
+"../../../../testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

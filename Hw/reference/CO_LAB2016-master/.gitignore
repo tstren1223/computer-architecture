@@ -1,0 +1,11 @@
+.DS_Store
+*/*
+!.gitignore
+!*/*.cpp
+!*/*.v
+!*/*.vhd
+!*/**/*.txt
+!*/*.pdf
+!*/*.doc
+!*/*.docx
+

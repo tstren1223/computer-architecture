@@ -1,0 +1,83 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Jun  5 17:28:40 2021
+# Process ID: 18936
+# Current directory: D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13072 D:\大學資料\大二\(資工)計算機組織概論\Hw\3\Lab3\Lab3.xpr
+# Log file: D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/vivado.log
+# Journal file: D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/Lab3.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/T480/Desktop/Lab3' since last save.
+WARNING: [filemgmt 56-2] Default IP Output Path : Could not find the directory 'D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/Lab3.gen/sources_1', nor could it be found using path 'C:/Users/T480/Desktop/Lab3/Lab3.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:14 ; elapsed = 00:00:05 . Memory (MB): peak = 1017.410 ; gain = 0.000
+update_compile_order -fileset sources_1
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/Lab3.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'testbench' in fileset 'sim_1'...
+INFO: [SIM-utils-43] Exported 'D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/Lab3.sim/sim_1/behav/xsim/CO_P3_test_data2.txt'
+INFO: [SIM-utils-43] Exported 'D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/Lab3.sim/sim_1/behav/xsim/CO_P3_test_data1.txt'
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/Lab3.sim/sim_1/behav/xsim'
+"xvlog --incr --relax -prj testbench_vlog.prj"
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/ALU_Ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Data_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Data_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Instr_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Instr_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/MUX_2to1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX_2to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/ProgramCounter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProgramCounter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Reg_File.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Reg_File
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Shift_Left_Two_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Shift_Left_Two_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Sign_Extend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Sign_Extend
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Simple_Single_CPU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Simple_Single_CPU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/add_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/alu_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/alu_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/and_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module and_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/nor_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module nor_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/or_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module or_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/slt_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module slt_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/sub_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sub_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/Lab3.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [Common 17-344] 'run_program' was cancelled
+INFO: [Vivado 12-5357] 'compile' step aborted
+INFO: [Common 17-344] 'launch_simulation' was cancelled
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat Jun  5 18:51:56 2021...

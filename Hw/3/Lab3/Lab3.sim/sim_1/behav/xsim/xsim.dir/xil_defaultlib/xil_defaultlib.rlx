@@ -1,0 +1,26 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/Lab3.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/ALU.v,1621622696,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/ALU_Ctrl.v,,ALU,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/ALU_Ctrl.v,1621684813,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Adder.v,,ALU_Ctrl,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Adder.v,1621622696,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Data_Memory.v,,Adder,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Data_Memory.v,1621622696,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Decoder.v,,Data_Memory,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Decoder.v,1621684621,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Instr_Memory.v,,Decoder,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Instr_Memory.v,1621689957,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/MUX_2to1.v,,Instr_Memory,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/MUX_2to1.v,1621622696,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/ProgramCounter.v,,MUX_2to1,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/ProgramCounter.v,1621622696,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Reg_File.v,,ProgramCounter,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Reg_File.v,1621622696,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Shift_Left_Two_32.v,,Reg_File,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Shift_Left_Two_32.v,1621622696,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Sign_Extend.v,,Shift_Left_Two_32,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Sign_Extend.v,1621622696,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Simple_Single_CPU.v,,Sign_Extend,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/Simple_Single_CPU.v,1621684820,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/add_32.v,,Simple_Single_CPU,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/add_32.v,1620388409,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/alu_4.v,,add_32,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/alu_4.v,1620388212,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/alu_top.v,,alu_4,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/alu_top.v,1620388245,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/and_32.v,,alu_top,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/and_32.v,1620388254,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/nor_32.v,,and_32,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/nor_32.v,1620388546,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/or_32.v,,nor_32,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/or_32.v,1620388339,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/slt_32.v,,or_32,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/slt_32.v,1620388773,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/sub_32.v,,slt_32,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/sub_32.v,1620419379,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/testbench.v,,sub_32,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/3/Lab3/code/testbench.v,1621684917,verilog,,,,testbench,,,,,,,,

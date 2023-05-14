@@ -1,0 +1,25 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/T480/Desktop/Lab2/Lab2.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/T480/Desktop/Lab2/code/ALU.v,1620441581,verilog,,C:/Users/T480/Desktop/Lab2/code/ALU_Ctrl.v,,ALU,,,,,,,,
+C:/Users/T480/Desktop/Lab2/code/ALU_Ctrl.v,1620484464,verilog,,C:/Users/T480/Desktop/Lab2/code/Adder.v,,ALU_Ctrl,,,,,,,,
+C:/Users/T480/Desktop/Lab2/code/Adder.v,1620405869,verilog,,C:/Users/T480/Desktop/Lab2/code/Decoder.v,,Adder,,,,,,,,
+C:/Users/T480/Desktop/Lab2/code/Decoder.v,1620413319,verilog,,C:/Users/T480/Desktop/Lab2/code/Instr_Memory.v,,Decoder,,,,,,,,
+C:/Users/T480/Desktop/Lab2/code/Instr_Memory.v,1620486312,verilog,,C:/Users/T480/Desktop/Lab2/code/MUX_2to1.v,,Instr_Memory,,,,,,,,
+C:/Users/T480/Desktop/Lab2/code/MUX_2to1.v,1620416688,verilog,,C:/Users/T480/Desktop/Lab2/code/ProgramCounter.v,,MUX_2to1,,,,,,,,
+C:/Users/T480/Desktop/Lab2/code/ProgramCounter.v,1619172919,verilog,,C:/Users/T480/Desktop/Lab2/code/Reg_File.v,,ProgramCounter,,,,,,,,
+C:/Users/T480/Desktop/Lab2/code/Reg_File.v,1620441309,verilog,,C:/Users/T480/Desktop/Lab2/code/Shift_Left_Two_32.v,,Reg_File,,,,,,,,
+C:/Users/T480/Desktop/Lab2/code/Shift_Left_Two_32.v,1620486236,verilog,,C:/Users/T480/Desktop/Lab2/code/Sign_Extend.v,,Shift_Left_Two_32,,,,,,,,
+C:/Users/T480/Desktop/Lab2/code/Sign_Extend.v,1620442013,verilog,,C:/Users/T480/Desktop/Lab2/code/Simple_Single_CPU.v,,Sign_Extend,,,,,,,,
+C:/Users/T480/Desktop/Lab2/code/Simple_Single_CPU.v,1620442331,verilog,,C:/Users/T480/Desktop/Lab2/code/add_32.v,,Simple_Single_CPU,,,,,,,,
+C:/Users/T480/Desktop/Lab2/code/Test_Bench.v,1620419633,verilog,,,,TestBench,,,,,,,,
+C:/Users/T480/Desktop/Lab2/code/add_32.v,1620388409,verilog,,C:/Users/T480/Desktop/Lab2/code/alu_4.v,,add_32,,,,,,,,
+C:/Users/T480/Desktop/Lab2/code/alu_4.v,1620388212,verilog,,C:/Users/T480/Desktop/Lab2/code/alu_top.v,,alu_4,,,,,,,,
+C:/Users/T480/Desktop/Lab2/code/alu_top.v,1620388245,verilog,,C:/Users/T480/Desktop/Lab2/code/and_32.v,,alu_top,,,,,,,,
+C:/Users/T480/Desktop/Lab2/code/and_32.v,1620388254,verilog,,C:/Users/T480/Desktop/Lab2/code/nor_32.v,,and_32,,,,,,,,
+C:/Users/T480/Desktop/Lab2/code/nor_32.v,1620388546,verilog,,C:/Users/T480/Desktop/Lab2/code/or_32.v,,nor_32,,,,,,,,
+C:/Users/T480/Desktop/Lab2/code/or_32.v,1620388339,verilog,,C:/Users/T480/Desktop/Lab2/code/slt_32.v,,or_32,,,,,,,,
+C:/Users/T480/Desktop/Lab2/code/slt_32.v,1620388773,verilog,,C:/Users/T480/Desktop/Lab2/code/sub_32.v,,slt_32,,,,,,,,
+C:/Users/T480/Desktop/Lab2/code/sub_32.v,1620419379,verilog,,C:/Users/T480/Desktop/Lab2/code/Test_Bench.v,,sub_32,,,,,,,,

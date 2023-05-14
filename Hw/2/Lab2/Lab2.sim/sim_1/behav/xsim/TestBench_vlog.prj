@@ -1,0 +1,28 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../code/ALU.v" \
+"../../../../code/ALU_Ctrl.v" \
+"../../../../code/Adder.v" \
+"../../../../code/Decoder.v" \
+"../../../../code/Instr_Memory.v" \
+"../../../../code/MUX_2to1.v" \
+"../../../../code/ProgramCounter.v" \
+"../../../../code/Reg_File.v" \
+"../../../../code/Shift_Left_Two_32.v" \
+"../../../../code/Sign_Extend.v" \
+"../../../../code/Simple_Single_CPU.v" \
+"../../../../code/add_32.v" \
+"../../../../code/alu_4.v" \
+"../../../../code/alu_top.v" \
+"../../../../code/and_32.v" \
+"../../../../code/nor_32.v" \
+"../../../../code/or_32.v" \
+"../../../../code/slt_32.v" \
+"../../../../code/sub_32.v" \
+"../../../../code/Test_Bench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

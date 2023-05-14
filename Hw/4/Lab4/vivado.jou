@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Jun 23 13:07:15 2021
+# Process ID: 8928
+# Current directory: D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16724 D:\大學資料\大二\(資工)計算機組織概論\Hw\4\Lab4\Lab4.xpr
+# Log file: D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/vivado.log
+# Journal file: D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/Lab4.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim

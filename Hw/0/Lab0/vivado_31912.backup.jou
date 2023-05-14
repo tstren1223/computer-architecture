@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Mar  7 23:18:00 2021
+# Process ID: 31912
+# Current directory: C:/Users/T480/Desktop/Lab0
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent32692 C:\Users\T480\Desktop\Lab0\Lab0.xpr
+# Log file: C:/Users/T480/Desktop/Lab0/vivado.log
+# Journal file: C:/Users/T480/Desktop/Lab0\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/T480/Desktop/Lab0/Lab0.xpr
+update_compile_order -fileset sources_1

@@ -1,0 +1,27 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/Lab4.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/ALU.v,1622909606,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/ALU_Ctrl.v,,ALU,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/ALU_Ctrl.v,1622890425,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Adder.v,,ALU_Ctrl,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Adder.v,1621622696,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Data_Memory.v,,Adder,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Data_Memory.v,1622957768,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Decoder.v,,Data_Memory,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Decoder.v,1621684621,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Instruction_Memory.v,,Decoder,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Instruction_Memory.v,1399639446,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/MUX_2to1.v,,Instruction_Memory,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/MUX_2to1.v,1621622696,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Pipe_CPU_1.v,,MUX_2to1,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Pipe_CPU_1.v,1622963401,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Pipe_Reg.v,,Pipe_CPU_1,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Pipe_Reg.v,1622957709,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/ProgramCounter.v,,Pipe_Reg,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/ProgramCounter.v,1621622696,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Reg_File.v,,ProgramCounter,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Reg_File.v,1622957748,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Shift_Left_Two_32.v,,Reg_File,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Shift_Left_Two_32.v,1621622696,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Sign_Extend.v,,Shift_Left_Two_32,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Sign_Extend.v,1621622696,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/add_32.v,,Sign_Extend,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/TestBench.v,1624425485,verilog,,,,TestBench,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/add_32.v,1620388409,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/alu_4.v,,add_32,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/alu_4.v,1620388212,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/alu_top.v,,alu_4,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/alu_top.v,1620388245,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/and_32.v,,alu_top,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/and_32.v,1620388254,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/nor_32.v,,and_32,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/nor_32.v,1620388546,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/or_32.v,,nor_32,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/or_32.v,1620388339,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/slt_32.v,,or_32,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/slt_32.v,1620388773,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/sub_32.v,,slt_32,,,,,,,,
+D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/sub_32.v,1620419379,verilog,,D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/TestBench.v,,sub_32,,,,,,,,

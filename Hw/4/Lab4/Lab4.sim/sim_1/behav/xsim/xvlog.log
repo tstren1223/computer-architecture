@@ -1,0 +1,44 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/ALU_Ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Data_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Data_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Instruction_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Instruction_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/MUX_2to1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX_2to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Pipe_CPU_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Pipe_CPU_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Pipe_Reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Pipe_Reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/ProgramCounter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProgramCounter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Reg_File.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Reg_File
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Shift_Left_Two_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Shift_Left_Two_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/Sign_Extend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Sign_Extend
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/add_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/alu_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/alu_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/and_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module and_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/nor_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module nor_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/or_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module or_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/slt_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module slt_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/sub_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sub_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/大學資料/大二/(資工)計算機組織概論/Hw/4/Lab4/lab4_code/TestBench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TestBench

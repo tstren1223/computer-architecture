@@ -1,0 +1,159 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Jun 23 10:31:58 2021
+# Process ID: 1100
+# Current directory: C:/Users/T480/Desktop/Lab4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8704 C:\Users\T480\Desktop\Lab4\Lab4.xpr
+# Log file: C:/Users/T480/Desktop/Lab4/vivado.log
+# Journal file: C:/Users/T480/Desktop/Lab4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/T480/Desktop/Lab4/Lab4.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+launch_simulation
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+close [ open C:/Users/T480/Desktop/Lab4/Lab4.srcs/sources_1/new/MUX_3to1.v w ]
+add_files C:/Users/T480/Desktop/Lab4/Lab4.srcs/sources_1/new/MUX_3to1.v
+update_compile_order -fileset sources_1
+close [ open C:/Users/T480/Desktop/Lab4/Lab4.srcs/sources_1/new/Redo.v w ]
+add_files C:/Users/T480/Desktop/Lab4/Lab4.srcs/sources_1/new/Redo.v
+update_compile_order -fileset sources_1
+close [ open C:/Users/T480/Desktop/Lab4/Lab4.srcs/sources_1/new/Lw_Hazard_Detection.v w ]
+add_files C:/Users/T480/Desktop/Lab4/Lab4.srcs/sources_1/new/Lw_Hazard_Detection.v
+update_compile_order -fileset sources_1
+close [ open C:/Users/T480/Desktop/Lab4/Lab4.srcs/sources_1/new/Forwarding.v w ]
+add_files C:/Users/T480/Desktop/Lab4/Lab4.srcs/sources_1/new/Forwarding.v
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+launch_simulation
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+reset_run synth_1
+close_sim
+launch_simulation
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim
+launch_simulation
+source TestBench.tcl
+close_sim

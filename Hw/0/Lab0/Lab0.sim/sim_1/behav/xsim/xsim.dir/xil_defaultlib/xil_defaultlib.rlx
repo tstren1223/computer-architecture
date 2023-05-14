@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/T480/Lab0/Lab0.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/T480/Lab0/full_adder.v,1615129726,verilog,,C:/Users/T480/Lab0/half_adder.v,,Full_Adder,,,,,,,,
+C:/Users/T480/Lab0/half_adder.v,1615123744,verilog,,C:/Users/T480/Lab0/testbench.v,,Half_Adder,,,,,,,,
+C:/Users/T480/Lab0/testbench.v,1615102851,verilog,,,,testbench,,,,,,,,
